@@ -1,1 +1,2 @@
-# TodoList
+# To-do List App
+
